@@ -1,0 +1,15 @@
+{
+  "name": "webscraperproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "website-scraper": "^4.2.3",
+    "website-scraper-existing-directory": "^0.1.0"
+  }
+}
